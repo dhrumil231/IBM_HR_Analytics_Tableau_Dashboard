@@ -1,5 +1,5 @@
 # IBM_HR_Analytics_Tableau_Dashboard
-![Airbnb Banner](https://github.com/dhrumil231/NYC_Airbnb_Tableau_Dashboard/blob/main/Airbnb%20Logo.png)
+![IBM Banner](https://github.com/dhrumil231/IBM_HR_Analytics_Tableau_Dashboard/blob/main/IBM_logo.png)
 
 💼 Overview
 The IBM HR Analytics Dashboard is a comprehensive data visualization project built with Tableau that provides a strategic view of employee data. By analyzing key metrics such as attrition rates, job satisfaction, and demographic trends, this dashboard enables HR professionals and business leaders to make informed decisions. This project showcases my ability to create insightful, interactive dashboards that transform raw data into a powerful tool for talent management and workforce planning.
